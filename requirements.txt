@@ -1,0 +1,24 @@
+"""
+requirements.txt
+Abhängigkeiten für das Smart Plant Identification and Navigation Tool
+"""
+
+# Computer Vision und Machine Learning
+ultralytics>=8.3.0
+opencv-python>=4.8.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Bildverarbeitung
+Pillow>=10.0.0
+
+# GUI (bereits in Python Standard Library, aber für Vollständigkeit aufgeführt)
+# tkinter - Standard Library
+
+# Wissenschaftliche Bibliotheken (werden von ultralytics benötigt)
+numpy>=1.21.0
+matplotlib>=3.3.0
+scipy>=1.7.0
+
+# Zusätzliche Abhängigkeiten
+psutil>=5.8.0
