@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data.zip
+data/
+temp_detection.jpg
+test_detection_result.jpg
